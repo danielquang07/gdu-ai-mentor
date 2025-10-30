@@ -4,7 +4,6 @@ Simple chatbot web app using Next.js (App Router) and Gemini API.
 
 ## Setup
 
-1. Install deps:
 
 ```
 pnpm install # or npm install / yarn
