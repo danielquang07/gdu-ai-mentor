@@ -6,7 +6,7 @@ Simple chatbot web app using Next.js (App Router) and Gemini API.
 
 
 ```
-pnpm install # or npm install / yarn
+
 ```
 
 2. Create `.env.local` with your Gemini API key:
