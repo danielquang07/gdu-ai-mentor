@@ -5,7 +5,7 @@ Simple chatbot web app using Next.js (App Router) and Gemini API.
 ## Setup
 
 
-```
+``
 
 ``
 
