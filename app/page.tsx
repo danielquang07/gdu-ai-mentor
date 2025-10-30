@@ -109,7 +109,7 @@ export default function Page() {
               onClick={handleClear}
               className="rounded-md border px-3 py-1 text-sm hover:bg-neutral-50"
             >
-              Xóa
+              Xóa Lịch Sử
             </button>
           </div>
         </div>
